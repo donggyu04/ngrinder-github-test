@@ -1,2 +1,2 @@
-# ngrinder-github-test
-Test for GitHub storage
+# ngrinder-github-storage-test
+Test for github storage
